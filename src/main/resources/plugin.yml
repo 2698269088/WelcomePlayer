@@ -1,0 +1,8 @@
+name: WelcomePlayer
+version: '1.0'
+main: top.mcocet.welcomePlayer.WelcomePlayer
+api-version: '1.21'
+authors: [ MCOCET ]
+description: 向加入服务器的玩家发送欢迎信息
+website: https://home.mcocet.top
+folia-supported: true
