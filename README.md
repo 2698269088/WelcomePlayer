@@ -19,7 +19,7 @@
 
 ## 🚀 安装
 
-1. 从 [Releases](https://github.com/yourusername/WelcomePlayer/releases) 下载最新版本的 JAR 文件
+1. 从 [Releases](https://github.com/2698269088/WelcomePlayer/releases) 下载最新版本的 JAR 文件
 2. 将 JAR 文件放入服务器的 `plugins` 文件夹
 3. 重启服务器
 4. 编辑生成的 `config.yml` 文件自定义欢迎消息
@@ -80,7 +80,7 @@ first-join-only: false
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/WelcomePlayer.git
+git clone https://github.com/2698269088/WelcomePlayer.git
 cd WelcomePlayer
 
 # 构建项目
@@ -120,7 +120,7 @@ messages:
 
 ## 🐛 问题反馈
 
-如果你遇到了问题或有功能建议，请在 [Issues](https://github.com/yourusername/WelcomePlayer/issues) 中提交。
+如果你遇到了问题或有功能建议，请在 [Issues](https://github.com/2698269088/WelcomePlayer/issues) 中提交。
 
 ## 📄 开源协议
 
@@ -128,7 +128,7 @@ messages:
 
 ## 👨‍💻 作者
 
-- **MCOCET** - [GitHub](https://github.com/yourusername)
+- **MCOCET** - [GitHub](https://github.com/2698269088)
 
 ## 🙏 致谢
 
